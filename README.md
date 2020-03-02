@@ -49,4 +49,5 @@ For the latest releases and announcements, follow on Twitter: [@vuejs](https://t
 
 ## License
 
+
 [MIT](http://opensource.org/licenses/MIT)
